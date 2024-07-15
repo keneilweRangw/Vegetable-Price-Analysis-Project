@@ -23,7 +23,7 @@ The purpose of this project is to:
 1. Clone the Repository: Clone the project repository from GitHub using the following command:
 bash
 
-git clone https://github.com/ZweeteeM/JB4-PYTHON-PROJECT.git
+git clone [https://github.com/keneilweRangw/Vegetable-Price-Analysis-Project.git
 
 2. Install Dependencies: Navigate to the project directory and install the necessary dependencies using pip:
 bash
