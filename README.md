@@ -7,7 +7,6 @@
 * [2. Setting Up the Coding Environment](#environment-and-packages)
 * [3. Creating a branch](#cloning-and_editing)
 * [4. Datasets](#dataset)
-* [5.Team Members](#contributers)
 
 ## 1. Overview
 Welcome to the Vegetable Price Analysis project! This report presents an analysis of vegetable prices focusing on the years 2023 and 2024. The study aims to uncover trends, fluctuations, and factors influencing vegetable prices during this two-year period. By examining price dynamics within this specific timeframe, the report provides insights into short-term trends and their implications for stakeholders in the vegetable market.
@@ -72,10 +71,8 @@ python main.py
 
 Explore Results: After running the code, explore the generated results, including visualizations and analysis reports, to gain insights into vegetable pricing trends.
 
-Contributors:
-Zwiitwaho Mugodo (mugodozwiitwaho@gmail.com)
-Keneilwe 	Rangwaga (patricia001105@gmail.com)
-Seneme	Mpungose (leebunny1623@gmail.com)
-Tumelo Matamela (tumelomatamane1@gmail.com)
 
-Thank you for your interest in the Vegetable Price Analysis project! We hope you find it informative and useful. Happy analyzing!
+Thank you for your interest in the Vegetable Price Analysis project!I hope you find it informative and useful. Happy analyzing!
+
+
+Keneilwe Rangwaga | (patricia001105@gmail.com)
